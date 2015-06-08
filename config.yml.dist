@@ -1,0 +1,8 @@
+
+
+# The location of the 'edit button' can be `topleft`, `topright`, `bottomleft`, `bottomright`
+button_location: topleft
+
+# The label of the button. If you leave this blank, it will be a localised version of "Edit"
+button_label:
+

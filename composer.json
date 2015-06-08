@@ -1,0 +1,27 @@
+{
+    "name": "bobdenotter/editbutton",
+    "description": "A nifty little extension to add a button to quickly edit any record in Bolt.",
+    "type": "bolt-extension",
+    "require": {
+        "bolt/bolt": ">=2.2.0,<3.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bob den Otter",
+            "email": "bob@twokings.nl  "
+        }
+    ],
+    "autoload": {
+        "files": [
+            "init.php"
+        ],
+        "psr-4": {
+            "Bolt\\Extension\\Bobdenotter\\Editbutton\\": ""
+        }
+    },
+
+    "extra": {
+        "bolt-assets": "assets"
+    }
+}
