@@ -1,5 +1,3 @@
-
-
 # The location of the 'edit button' can be `topleft`, `topright`, `bottomleft`, `bottomright`
 button_location: topleft
 
